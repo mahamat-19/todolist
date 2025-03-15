@@ -1,0 +1,59 @@
+body{
+    background-color: hsl(203, 39%, 54%);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10;
+    text-align: center;
+}
+#add{
+    background-color: hsl(0, 90%, 43%);
+    color: rgb(253, 253, 253);
+    border: none;
+    padding: 10px 10px;
+    padding-right: 40px;
+    text-align: right;
+    margin-top: 35px;
+    border-radius: 5px;
+}
+.remove{
+    background-color: hsl(125, 89%, 35%);
+    padding-right: 20px;
+    padding-right: 20px;
+    clear: both;
+    border-radius: 5px;
+    float: right;
+    margin-top: 13px;
+    border: none;
+    width: 60px;
+    height: auto;
+}
+#wrapper{
+    background-color: hsl(221, 88%, 16%);
+    border-radius:auto;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 450px;
+}
+#task{
+    background-color: hwb(128 83% 14%);
+    border-radius: 10;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 320px;
+    text-align: left;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    line-height: 35px;
+}
+h1{
+    margin-top: 30px;
+    color: white;
+}
